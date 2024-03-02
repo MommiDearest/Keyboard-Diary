@@ -51,3 +51,18 @@ Once all fo this was settled and written onto the firmware we could begin testin
 
 I am NOT good at case design. In fact- I suck. But by golly did I do my Best. ![This is what I had to work with](https://raw.githubusercontent.com/MommiDearest/Keyboard-Diary/main/images/MMogpad/pictures/20240221_193110.jpg)
 
+I designed a few iterations- first i taped the joystick on jsut to get a feel for where my hand fell on the board. Thsi was  pretyy 'eclectic' process. I just felt around, tryignt o see wher ei would enjoy it most. I quickly realized that I would need to have some kind of wrist rest to stabilize it as I moved the joystick.  
+
+Iterated througha few designs using some filament colros I didnt like: 
+![](https://raw.githubusercontent.com/MommiDearest/Keyboard-Diary/main/images/MMogpad/pictures/20240227_100857.jpg)
+
+Eventually al ovely friend suggested I separate it into modular pieces and I didn just that, meaning i could remove the wrist rest and hide the bulk when I wasnt playing! 
+
+Heres some pics of the compelted project: 
+![](https://raw.githubusercontent.com/MommiDearest/Keyboard-Diary/main/images/MMogpad/pictures/20240228_080845.jpg)
+![](https://raw.githubusercontent.com/MommiDearest/Keyboard-Diary/main/images/MMogpad/pictures/20240228_081307.jpg)
+
+Anyway- That is all for this project, let me know if you feedback or questions! You can send any questions you might have [here](mailto:celes.meh@gmial.com "here")
+
+
+
