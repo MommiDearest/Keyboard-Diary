@@ -1,11 +1,6 @@
----
-title: "Moogle Matrix"
-date: 2024-02-29
----
+MMogPad
 
- MMogPad
-
-    Disclaimer: I am new to doing write-ups of projects so please let me know if there is any information you would like to know that I have not included here- Let me know!
+> Disclaimer: I am new to doing write-ups of projects so please let me know if there is any information you would like to know that I have not included here- Let me know!   
 
 This project started as a response to seeing the HorixFFXIV game-pad collaboration. It seemed like an interesting concept but there were a few things I didn't like. 
 
@@ -13,8 +8,9 @@ This project started as a response to seeing the HorixFFXIV game-pad collaborati
  2. Price:  I am NOT paying 140$ for an oversized macro-pad with joystick. 
  3. Aesthetic: it is very 'gamer'-y and to be honest I don't find that to be very appealing- that said it is also HUGE. I don't want most of my limited desk space to be taken up by some ugly giant macropad. 
  4. Its not pink. 
-So the first thing i needed was a Macro-pad. For this i got a dumbpad by Keedb. Originally I had gotten six kits to make some for myself and friends as holiday gifts.
+So the first thing i needed was a Macro-pad. For this i got a dumbpad by Keedb. Originally I had gotten six kits to make some for myself and friends as holiday gifts. 
+![](https://raw.githubusercontent.com/MommiDearest/Keyboard-Diary/main/images/MMogpad/pictures/20231230_195903.jpg)
+This was  by far the easiest part of the project. Instructions for the macro-pad are simple enough to find online.  You simply sodler the arduino pro micro to the board, then you solder the screen to the board. In order to keep components isolated I added Kapton tape to the back of the OLED. While i doubt it would realistically cause a short- Rather be safe than sorry.
 
+The next thing to do was jsut to flash the firmware. 
 
-
-![](https://raw.githubusercontent.com/MommiDearest/Keyboard-Diary/main/images/MMogpad/pictures/20231230_195903.jpg | width=100)
