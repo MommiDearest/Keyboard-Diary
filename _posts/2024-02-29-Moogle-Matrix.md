@@ -62,7 +62,7 @@ Heres some pics of the compelted project:
 ![](https://raw.githubusercontent.com/MommiDearest/Keyboard-Diary/main/images/MMogpad/pictures/20240228_080845.jpg)
 ![](https://raw.githubusercontent.com/MommiDearest/Keyboard-Diary/main/images/MMogpad/pictures/20240228_081307.jpg)
 
-Anyway- That is all for this project, let me know if you feedback or questions! You can send any questions you might have [here](mailto:celes.meh@gmial.com "here")
+Anyway- That is all for this project, let me know if you feedback or questions! You can send any questions you might have [here](mailto:celes.meh@gmial.com "here").
 
 
 
