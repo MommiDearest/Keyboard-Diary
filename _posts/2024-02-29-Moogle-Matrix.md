@@ -17,4 +17,4 @@ So the first thing i needed was a Macro-pad. For this i got a dumbpad by Keedb. 
 
 
 
-![](https://github.com/MommiDearest/Keyboard-Diary/blob/main/images/MMogpad/pictures/20231230_195903.jpg?raw=true)
+![](blob:https://imgur.com/8261acb1-b48f-4e6a-a42b-7f358295e3ee)
