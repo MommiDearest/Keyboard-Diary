@@ -17,4 +17,4 @@ So the first thing i needed was a Macro-pad. For this i got a dumbpad by Keedb. 
 
 
 
-![](blob:https://imgur.com/8261acb1-b48f-4e6a-a42b-7f358295e3ee)
+![](https://i.imgur.com/Ijk2fCd.jpeg)
