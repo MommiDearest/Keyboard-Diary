@@ -44,7 +44,7 @@ Then I added the configuraiton for the joystick:
 The three numbers after the pins are the resistance values.  The joystick I used was (originally) a psp joystick, later changed to a 3ds XL one. 
 ![](https://raw.githubusercontent.com/MommiDearest/Keyboard-Diary/main/images/MMogpad/pictures/20240301_203617.jpg) 
 
-The copper pins in the joystick drag accross the traces on the PCB and they vary the resistance coming out of the x,y pins. To figure out the resistance values I needed to be able to measure the resitance going into the analog pins. To do this I used the ability serial print the input resistance values. This can provide an average Max, average Min, and the average reisstance at rest. 
+The copper pins in the joystick drag accross the traces on the PCB and they vary the resistance coming out of the x,y pins. To figure out the resistance values I needed to be able to measure the resistance going into the analog pins. To do this I used the ability serial print the input resistance values. This can provide an average Max, average Min, and the average resistance at rest. 
 
 Swapping the Max and Min can help change the orientation of the joystick, swapping up and down, and left and right. 
 
